@@ -1,28 +1,43 @@
 const express = require("express");
 const http = require("http");
 const { Server } = require("socket.io");
-const cors = require("cors"); // Import the CORS package
+const cors = require("cors");
 
 const app = express();
 const server = http.createServer(app);
+
+const allowedOrigins = [
+    "https://hype-fv8s7nl6l-pixelcalibers-projects.vercel.app",
+    "https://hype-eta.vercel.app",
+    "http://localhost:3000" // For local testing
+];
+
+const corsOptions = {
+    origin: (origin, callback) => {
+        if (!origin || allowedOrigins.includes(origin)) {
+            callback(null, true);
+        } else {
+            callback(new Error("Not allowed by CORS"));
+        }
+    },
+    methods: ["GET", "POST"],
+    credentials: true 
+};
+
+app.use(cors(corsOptions));
+
 const io = new Server(server, {
     cors: {
-        origin: "https://hype-fv8s7nl6l-pixelcalibers-projects.vercel.app",
+        origin: allowedOrigins,
         methods: ["GET", "POST"]
     }
 });
-
-// Use CORS middleware
-app.use(cors({
-    origin: "https://hype-fv8s7nl6l-pixelcalibers-projects.vercel.app"
-}));
 
 app.use(express.static(__dirname));
 
 io.on("connection", (socket) => {
     console.log("A user connected");
 
-    // Relay messages between peers
     socket.on("message", (message) => {
         socket.broadcast.emit("message", message);
     });
