@@ -1,0 +1,222 @@
+[2024-12-25T13:25:40.930Z] [INFO] Fetching the turn server creds room: Z90E3Q {}
+[2024-12-25T13:25:42.377Z] [INFO] Non 200 response for TURN servers room: Z90E3Q. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:25:42.419Z] [INFO] Fetching the turn server creds room: Z90E3Q {}
+[2024-12-25T13:25:43.510Z] [INFO] Non 200 response for TURN servers room: Z90E3Q. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:26:07.695Z] [INFO] Fetching the turn server creds room: Z90E3Q {}
+[2024-12-25T13:26:10.568Z] [INFO] Non 200 response for TURN servers room: Z90E3Q. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:26:18.076Z] [INFO] Fetching the turn server creds room: Z90E3Q {}
+[2024-12-25T13:26:18.955Z] [INFO] Non 200 response for TURN servers room: Z90E3Q. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:26:27.509Z] [INFO] Fetching the turn server creds room: Z90E3Q {}
+[2024-12-25T13:26:29.365Z] [INFO] Non 200 response for TURN servers room: Z90E3Q. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:26:52.199Z] [INFO] Fetching the turn server creds room: K8UCQN {}
+[2024-12-25T13:26:56.017Z] [INFO] Non 200 response for TURN servers room: K8UCQN. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:26:56.037Z] [INFO] Fetching the turn server creds room: K8UCQN {}
+[2024-12-25T13:26:56.849Z] [INFO] Non 200 response for TURN servers room: K8UCQN. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:26:57.629Z] [INFO] Fetching the turn server creds room: K8UCQN {}
+[2024-12-25T13:26:59.452Z] [INFO] Non 200 response for TURN servers room: K8UCQN. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:30:39.577Z] [INFO] Fetching the turn server creds room: JC75UN {}
+[2024-12-25T13:30:42.605Z] [INFO] Non 200 response for TURN servers room: JC75UN. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:30:42.641Z] [INFO] Fetching the turn server creds room: JC75UN {}
+[2024-12-25T13:30:43.486Z] [INFO] Non 200 response for TURN servers room: JC75UN. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:30:56.694Z] [INFO] Fetching the turn server creds room: JC75UN {}
+[2024-12-25T13:31:00.386Z] [INFO] Non 200 response for TURN servers room: JC75UN. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:34:09.965Z] [INFO] Fetching the turn server creds room: 3BWQOS {}
+[2024-12-25T13:34:27.674Z] [INFO] Non 200 response for TURN servers room: 3BWQOS. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:34:27.693Z] [INFO] Fetching the turn server creds room: 3BWQOS {}
+[2024-12-25T13:34:28.542Z] [INFO] Non 200 response for TURN servers room: 3BWQOS. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:34:35.660Z] [INFO] Fetching the turn server creds room: 3BWQOS {}
+[2024-12-25T13:34:38.523Z] [INFO] Non 200 response for TURN servers room: 3BWQOS. Status: 500 Response: [object ReadableStream] {}
+[2024-12-25T13:39:18.898Z] [INFO] Fetching the turn server creds room: KJZIGV {}
+[2024-12-25T13:39:21.914Z] [INFO] Non 200 response for TURN servers room: KJZIGV. Status: 500 {}
+[2024-12-25T13:39:21.946Z] [INFO] Fetching the turn server creds room: KJZIGV {}
+[2024-12-25T13:39:24.138Z] [INFO] Non 200 response for TURN servers room: KJZIGV. Status: 500 {}
+[2024-12-25T13:39:34.531Z] [INFO] Fetching the turn server creds room: KJZIGV {}
+[2024-12-25T13:39:35.370Z] [INFO] Non 200 response for TURN servers room: KJZIGV. Status: 500 {}
+[2024-12-25T13:39:56.142Z] [INFO] Fetching the turn server creds room: KJZIGV {}
+[2024-12-25T13:39:58.024Z] [INFO] Non 200 response for TURN servers room: KJZIGV. Status: 500 {}
+[2024-12-25T13:40:41.829Z] [INFO] Fetching the turn server creds room: LEHZ30 {}
+[2024-12-25T13:40:43.556Z] [INFO] Non 200 response for TURN servers room: LEHZ30. Status: 500 {}
+[2024-12-25T13:40:43.584Z] [INFO] Fetching the turn server creds room: LEHZ30 {}
+[2024-12-25T13:40:44.439Z] [INFO] Non 200 response for TURN servers room: LEHZ30. Status: 500 {}
+[2024-12-25T13:40:56.377Z] [INFO] Fetching the turn server creds room: LEHZ30 {}
+[2024-12-25T13:40:58.220Z] [INFO] Non 200 response for TURN servers room: LEHZ30. Status: 500 {}
+[2024-12-25T13:42:15.721Z] [INFO] Fetching the turn server creds room: 5ZE29N {}
+[2024-12-25T13:42:18.760Z] [INFO] Non 200 response for TURN servers room: 5ZE29N. Status: 500 {}
+[2024-12-25T13:42:27.846Z] [INFO] Fetching the turn server creds room: 5ZE29N {}
+[2024-12-25T13:42:31.340Z] [INFO] Non 200 response for TURN servers room: 5ZE29N. Status: 500 {}
+[2024-12-25T13:42:47.576Z] [INFO] Fetching the turn server creds room: 5ZE29N {}
+[2024-12-25T13:42:51.428Z] [INFO] Non 200 response for TURN servers room: 5ZE29N. Status: 500 {}
+[2024-12-25T13:42:55.249Z] [INFO] Fetching the turn server creds room: 5ZE29N {}
+[2024-12-25T13:42:56.061Z] [INFO] Non 200 response for TURN servers room: 5ZE29N. Status: 500 {}
+[2024-12-25T13:43:34.718Z] [INFO] Fetching the turn server creds room: I2BTHP {}
+[2024-12-25T13:43:36.495Z] [INFO] Non 200 response for TURN servers room: I2BTHP. Status: 500 {}
+[2024-12-25T13:43:36.510Z] [INFO] Fetching the turn server creds room: I2BTHP {}
+[2024-12-25T13:43:38.373Z] [INFO] Non 200 response for TURN servers room: I2BTHP. Status: 500 {}
+[2024-12-25T13:44:42.608Z] [INFO] Fetching the turn server creds room: RCYI9E {}
+[2024-12-25T13:44:43.553Z] [INFO] Non 200 response for TURN servers room: RCYI9E. Status: 500 {}
+[2024-12-25T13:44:43.568Z] [INFO] Fetching the turn server creds room: RCYI9E {}
+[2024-12-25T13:44:45.143Z] [INFO] Non 200 response for TURN servers room: RCYI9E. Status: 500 {}
+[2024-12-25T13:44:45.178Z] [INFO] ICE connection state: checking for peer: RRA3oza_4MTlzmzRAAAb {}
+[2024-12-25T13:44:45.191Z] [INFO] Connection state change: connecting for peer: czmkNShTo1xhao1iAAAd {}
+[2024-12-25T13:44:45.183Z] [INFO] ICE connection state: connected for peer: czmkNShTo1xhao1iAAAd {}
+[2024-12-25T13:44:45.180Z] [INFO] ICE connection state: connected for peer: RRA3oza_4MTlzmzRAAAb {}
+[2024-12-25T13:44:45.193Z] [INFO] Connection state change: connected for peer: czmkNShTo1xhao1iAAAd {}
+[2024-12-25T13:44:45.179Z] [INFO] Connection state change: connecting for peer: RRA3oza_4MTlzmzRAAAb {}
+[2024-12-25T13:44:45.187Z] [INFO] Connection state change: connected for peer: RRA3oza_4MTlzmzRAAAb {}
+[2024-12-25T13:44:45.181Z] [INFO] ICE connection state: checking for peer: czmkNShTo1xhao1iAAAd {}
+[2024-12-25T13:45:52.627Z] [INFO] Fetching the turn server creds room: 64FFHL {}
+[2024-12-25T13:45:55.603Z] [INFO] Non 200 response for TURN servers room: 64FFHL. Status: 500 {}
+[2024-12-25T13:45:55.631Z] [INFO] Fetching the turn server creds room: 64FFHL {}
+[2024-12-25T13:45:58.062Z] [INFO] Non 200 response for TURN servers room: 64FFHL. Status: 500 {}
+[2024-12-25T13:45:58.094Z] [INFO] ICE connection state: checking for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:45:58.095Z] [INFO] ICE connection state: connected for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:45:58.104Z] [INFO] Connection state change: connected for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:45:58.096Z] [INFO] Connection state change: connecting for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:45:58.100Z] [INFO] Connection state change: connected for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:45:58.097Z] [INFO] ICE connection state: connected for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:45:58.104Z] [INFO] Connection state change: connecting for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:45:58.096Z] [INFO] ICE connection state: checking for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:46:50.480Z] [INFO] Fetching the turn server creds room: 64FFHL {}
+[2024-12-25T13:46:52.894Z] [INFO] Non 200 response for TURN servers room: 64FFHL. Status: 500 {}
+[2024-12-25T13:46:52.908Z] [INFO] Fetching the turn server creds room: 64FFHL {}
+[2024-12-25T13:46:54.765Z] [INFO] Non 200 response for TURN servers room: 64FFHL. Status: 500 {}
+[2024-12-25T13:46:54.796Z] [INFO] ICE connection state: checking for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:46:54.797Z] [INFO] Connection state change: connecting for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:46:54.810Z] [INFO] Connection state change: connecting for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:46:54.798Z] [INFO] ICE connection state: connected for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:46:54.798Z] [INFO] ICE connection state: checking for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:46:54.802Z] [INFO] ICE connection state: connected for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:46:54.803Z] [INFO] Connection state change: connected for peer: 1TGbeqMe3_HiPFdyAAAh {}
+[2024-12-25T13:46:54.811Z] [INFO] Connection state change: connected for peer: 4G4SsJ19kuLb3EVkAAAf {}
+[2024-12-25T13:48:22.451Z] [INFO] Fetching the turn server creds room: VDFKYS {}
+[2024-12-25T13:48:24.255Z] [INFO] Non 200 response for TURN servers room: VDFKYS. Status: 500 {}
+[2024-12-25T13:48:24.273Z] [INFO] Fetching the turn server creds room: VDFKYS {}
+[2024-12-25T13:48:25.108Z] [INFO] Non 200 response for TURN servers room: VDFKYS. Status: 500 {}
+[2024-12-25T13:48:25.127Z] [INFO] ICE connection state: checking for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T13:48:25.127Z] [INFO] Connection state change: connecting for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T13:48:25.134Z] [INFO] Connection state change: connecting for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:48:25.129Z] [INFO] ICE connection state: checking for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:48:25.130Z] [INFO] ICE connection state: connected for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:48:25.130Z] [INFO] Connection state change: connected for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T13:48:25.135Z] [INFO] Connection state change: connected for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:48:25.128Z] [INFO] ICE connection state: connected for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T13:49:13.949Z] [INFO] Fetching the turn server creds room: X2YEA0 {}
+[2024-12-25T13:49:15.593Z] [INFO] Non 200 response for TURN servers room: X2YEA0. Status: 500 {}
+[2024-12-25T13:49:15.606Z] [INFO] Fetching the turn server creds room: X2YEA0 {}
+[2024-12-25T13:49:16.423Z] [INFO] Non 200 response for TURN servers room: X2YEA0. Status: 500 {}
+[2024-12-25T13:49:16.452Z] [INFO] ICE connection state: checking for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:49:16.453Z] [INFO] Connection state change: connecting for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:49:16.469Z] [INFO] Connection state change: connected for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T13:49:16.469Z] [INFO] Connection state change: connecting for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T13:49:16.455Z] [INFO] ICE connection state: connected for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:49:16.461Z] [INFO] Connection state change: connected for peer: vri_LkEGqrkURfIWAAAj {}
+[2024-12-25T13:49:16.459Z] [INFO] ICE connection state: checking for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T13:49:16.462Z] [INFO] ICE connection state: connected for peer: 884cNfGM1iLw_nAHAAAl {}
+[2024-12-25T15:58:02.916Z] [INFO] Fetching the turn server creds room: ORIINL {}
+[2024-12-25T15:58:04.040Z] [INFO] Non 200 response for TURN servers room: ORIINL. Status: 500 {}
+[2024-12-25T15:58:04.143Z] [INFO] Fetching the turn server creds room: ORIINL {}
+[2024-12-25T15:58:04.941Z] [INFO] Non 200 response for TURN servers room: ORIINL. Status: 500 {}
+[2024-12-25T15:58:04.995Z] [INFO] ICE connection state: checking for peer: QtiXy4vyrlnsOav6AAA1 {}
+[2024-12-25T15:58:05.001Z] [INFO] ICE connection state: connected for peer: BYhkdliiTkAau7WrAAA3 {}
+[2024-12-25T15:58:04.996Z] [INFO] ICE connection state: checking for peer: BYhkdliiTkAau7WrAAA3 {}
+[2024-12-25T15:58:05.001Z] [INFO] Connection state change: connected for peer: BYhkdliiTkAau7WrAAA3 {}
+[2024-12-25T15:58:04.996Z] [INFO] Connection state change: connecting for peer: QtiXy4vyrlnsOav6AAA1 {}
+[2024-12-25T15:58:04.998Z] [INFO] ICE connection state: connected for peer: QtiXy4vyrlnsOav6AAA1 {}
+[2024-12-25T15:58:05.000Z] [INFO] Connection state change: connected for peer: QtiXy4vyrlnsOav6AAA1 {}
+[2024-12-25T15:58:05.000Z] [INFO] Connection state change: connecting for peer: BYhkdliiTkAau7WrAAA3 {}
+[2024-12-25T16:05:22.308Z] [INFO] Fetching the turn server creds room: WFZ315 {}
+[2024-12-25T16:05:23.404Z] [INFO] Non 200 response for TURN servers room: WFZ315. Status: 500 {}
+[2024-12-25T16:05:23.524Z] [INFO] Fetching the turn server creds room: WFZ315 {}
+[2024-12-25T16:05:24.342Z] [INFO] Non 200 response for TURN servers room: WFZ315. Status: 500 {}
+[2024-12-25T16:05:24.382Z] [INFO] ICE connection state: checking for peer: Q57G3cs3zbwUeC8iAABL {}
+[2024-12-25T16:05:24.383Z] [INFO] Connection state change: connecting for peer: Q57G3cs3zbwUeC8iAABL {}
+[2024-12-25T16:05:24.388Z] [INFO] Connection state change: connected for peer: Q57G3cs3zbwUeC8iAABL {}
+[2024-12-25T16:05:24.383Z] [INFO] ICE connection state: checking for peer: axFZgR6JDizXV705AABJ {}
+[2024-12-25T16:05:24.385Z] [INFO] ICE connection state: connected for peer: Q57G3cs3zbwUeC8iAABL {}
+[2024-12-25T16:05:24.390Z] [INFO] Connection state change: connected for peer: axFZgR6JDizXV705AABJ {}
+[2024-12-25T16:05:24.388Z] [INFO] Connection state change: connecting for peer: axFZgR6JDizXV705AABJ {}
+[2024-12-25T16:05:24.388Z] [INFO] ICE connection state: connected for peer: axFZgR6JDizXV705AABJ {}
+[2024-12-25T16:05:52.434Z] [INFO] Fetching the turn server creds room: UQHFNJ {}
+[2024-12-25T16:05:53.270Z] [INFO] Non 200 response for TURN servers room: UQHFNJ. Status: 500 {}
+[2024-12-25T16:05:53.276Z] [INFO] Fetching the turn server creds room: UQHFNJ {}
+[2024-12-25T16:05:54.073Z] [INFO] Non 200 response for TURN servers room: UQHFNJ. Status: 500 {}
+[2024-12-25T16:05:54.097Z] [INFO] ICE connection state: checking for peer: BsmaO0h0o-O_Izr9AABN {}
+[2024-12-25T16:05:54.097Z] [INFO] Connection state change: connecting for peer: BsmaO0h0o-O_Izr9AABN {}
+[2024-12-25T16:05:54.101Z] [INFO] ICE connection state: connected for peer: xoRkTDI3tttODedZAABP {}
+[2024-12-25T16:05:54.098Z] [INFO] ICE connection state: connected for peer: BsmaO0h0o-O_Izr9AABN {}
+[2024-12-25T16:05:54.100Z] [INFO] ICE connection state: checking for peer: xoRkTDI3tttODedZAABP {}
+[2024-12-25T16:05:54.101Z] [INFO] Connection state change: connected for peer: BsmaO0h0o-O_Izr9AABN {}
+[2024-12-25T16:05:54.106Z] [INFO] Connection state change: connected for peer: xoRkTDI3tttODedZAABP {}
+[2024-12-25T16:05:54.106Z] [INFO] Connection state change: connecting for peer: xoRkTDI3tttODedZAABP {}
+[2024-12-25T16:07:03.415Z] [INFO] Fetching the turn server creds room: 4HFTNF {}
+[2024-12-25T16:07:06.824Z] [INFO] Non 200 response for TURN servers room: 4HFTNF. Status: 500 {}
+[2024-12-25T16:07:06.839Z] [INFO] Fetching the turn server creds room: 4HFTNF {}
+[2024-12-25T16:07:07.668Z] [INFO] Non 200 response for TURN servers room: 4HFTNF. Status: 500 {}
+[2024-12-25T16:07:07.697Z] [INFO] ICE connection state: checking for peer: rDeg3TT86L1IyXf2AABR {}
+[2024-12-25T16:07:07.697Z] [INFO] Connection state change: connecting for peer: rDeg3TT86L1IyXf2AABR {}
+[2024-12-25T16:07:07.708Z] [INFO] Connection state change: connected for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:07:07.699Z] [INFO] ICE connection state: connected for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:07:07.703Z] [INFO] Connection state change: connected for peer: rDeg3TT86L1IyXf2AABR {}
+[2024-12-25T16:07:07.698Z] [INFO] ICE connection state: connected for peer: rDeg3TT86L1IyXf2AABR {}
+[2024-12-25T16:07:07.706Z] [INFO] Connection state change: connecting for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:07:07.699Z] [INFO] ICE connection state: checking for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:07:47.999Z] [INFO] Fetching the turn server creds room: KV5XTF {}
+[2024-12-25T16:07:48.861Z] [INFO] Non 200 response for TURN servers room: KV5XTF. Status: 500 {}
+[2024-12-25T16:07:48.870Z] [INFO] Fetching the turn server creds room: KV5XTF {}
+[2024-12-25T16:07:50.558Z] [INFO] Non 200 response for TURN servers room: KV5XTF. Status: 500 {}
+[2024-12-25T16:07:50.582Z] [INFO] ICE connection state: checking for peer: ZvrwEBxwdm8-T1j_AABV {}
+[2024-12-25T16:07:50.583Z] [INFO] Connection state change: connecting for peer: ZvrwEBxwdm8-T1j_AABV {}
+[2024-12-25T16:07:50.584Z] [INFO] ICE connection state: connected for peer: ZvrwEBxwdm8-T1j_AABV {}
+[2024-12-25T16:07:50.587Z] [INFO] ICE connection state: connected for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:07:50.587Z] [INFO] Connection state change: connected for peer: ZvrwEBxwdm8-T1j_AABV {}
+[2024-12-25T16:07:50.586Z] [INFO] ICE connection state: checking for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:07:50.593Z] [INFO] Connection state change: connected for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:07:50.593Z] [INFO] Connection state change: connecting for peer: ToB69mwVyWJ0n_40AABT {}
+[2024-12-25T16:10:18.427Z] [INFO] Fetching the turn server creds room: HHRCBX {}
+[2024-12-25T16:10:21.185Z] [INFO] Non 200 response for TURN servers room: HHRCBX. Status: 500 {}
+[2024-12-25T16:10:21.233Z] [INFO] Fetching the turn server creds room: HHRCBX {}
+[2024-12-25T16:10:22.050Z] [INFO] Non 200 response for TURN servers room: HHRCBX. Status: 500 {}
+[2024-12-25T16:10:22.087Z] [INFO] ICE connection state: checking for peer: ko9UlMMoWUyb2WYyAABZ {}
+[2024-12-25T16:10:22.088Z] [INFO] Connection state change: connecting for peer: ko9UlMMoWUyb2WYyAABZ {}
+[2024-12-25T16:10:22.096Z] [INFO] Connection state change: connected for peer: FZ0zjIt-7YQ9TFVSAABX {}
+[2024-12-25T16:10:22.093Z] [INFO] Connection state change: connected for peer: ko9UlMMoWUyb2WYyAABZ {}
+[2024-12-25T16:10:22.089Z] [INFO] ICE connection state: connected for peer: ko9UlMMoWUyb2WYyAABZ {}
+[2024-12-25T16:10:22.090Z] [INFO] ICE connection state: connected for peer: FZ0zjIt-7YQ9TFVSAABX {}
+[2024-12-25T16:10:22.089Z] [INFO] ICE connection state: checking for peer: FZ0zjIt-7YQ9TFVSAABX {}
+[2024-12-25T16:10:22.095Z] [INFO] Connection state change: connecting for peer: FZ0zjIt-7YQ9TFVSAABX {}
+[2024-12-25T16:11:40.799Z] [INFO] Fetching the turn server creds room: 6O33P2 {}
+[2024-12-25T16:11:43.427Z] [INFO] Non 200 response for TURN servers room: 6O33P2. Status: 500 {}
+[2024-12-25T16:11:43.439Z] [INFO] Fetching the turn server creds room: 6O33P2 {}
+[2024-12-25T16:11:44.286Z] [INFO] Non 200 response for TURN servers room: 6O33P2. Status: 500 {}
+[2024-12-25T16:11:44.318Z] [INFO] ICE connection state: checking for peer: 4M6peQccg48ZEKUJAABd {}
+[2024-12-25T16:11:44.331Z] [INFO] Connection state change: connecting for peer: WVOrNlgZXUCy2VHcAABb {}
+[2024-12-25T16:11:44.319Z] [INFO] Connection state change: connecting for peer: 4M6peQccg48ZEKUJAABd {}
+[2024-12-25T16:11:44.320Z] [INFO] ICE connection state: connected for peer: 4M6peQccg48ZEKUJAABd {}
+[2024-12-25T16:11:44.331Z] [INFO] Connection state change: connected for peer: WVOrNlgZXUCy2VHcAABb {}
+[2024-12-25T16:11:44.323Z] [INFO] ICE connection state: checking for peer: WVOrNlgZXUCy2VHcAABb {}
+[2024-12-25T16:11:44.325Z] [INFO] ICE connection state: connected for peer: WVOrNlgZXUCy2VHcAABb {}
+[2024-12-25T16:11:44.326Z] [INFO] Connection state change: connected for peer: 4M6peQccg48ZEKUJAABd {}
+[2024-12-25T16:34:34.031Z] [INFO] Fetching the turn server creds room: GRP52K {}
+[2024-12-25T16:34:35.218Z] [INFO] Non 200 response for TURN servers room: GRP52K. Status: 500 {}
+[2024-12-25T16:34:35.354Z] [INFO] Fetching the turn server creds room: GRP52K {}
+[2024-12-25T16:34:36.251Z] [INFO] Non 200 response for TURN servers room: GRP52K. Status: 500 {}
+[2024-12-25T16:34:36.348Z] [INFO] ICE connection state: checking for peer: ZIHEk47-vZR0suefAABj {}
+[2024-12-25T16:34:36.348Z] [INFO] Connection state change: connecting for peer: ZIHEk47-vZR0suefAABj {}
+[2024-12-25T16:34:36.356Z] [INFO] ICE connection state: connected for peer: ZIHEk47-vZR0suefAABj {}
+[2024-12-25T16:34:36.364Z] [INFO] Connection state change: connected for peer: ZIHEk47-vZR0suefAABj {}
+[2024-12-25T16:34:36.359Z] [INFO] ICE connection state: checking for peer: YzbNABhXIiZvq6X6AABf {}
+[2024-12-25T16:34:36.365Z] [INFO] ICE connection state: connected for peer: YzbNABhXIiZvq6X6AABf {}
+[2024-12-25T16:34:36.365Z] [INFO] Connection state change: connecting for peer: YzbNABhXIiZvq6X6AABf {}
+[2024-12-25T16:34:36.366Z] [INFO] Connection state change: connected for peer: YzbNABhXIiZvq6X6AABf {}
+[2024-12-25T16:36:56.217Z] [INFO] Fetching the turn server creds room: 57YR93 {}
+[2024-12-25T16:36:57.243Z] [INFO] Non 200 response for TURN servers room: 57YR93. Status: 500 {}
+[2024-12-25T16:36:57.336Z] [INFO] Fetching the turn server creds room: 57YR93 {}
+[2024-12-25T16:36:58.991Z] [INFO] Non 200 response for TURN servers room: 57YR93. Status: 500 {}
+[2024-12-25T16:36:59.046Z] [INFO] ICE connection state: checking for peer: jP3-8zR0pKkYPK1sAABl {}
+[2024-12-25T16:36:59.047Z] [INFO] Connection state change: connecting for peer: jP3-8zR0pKkYPK1sAABl {}
+[2024-12-25T16:36:59.050Z] [INFO] ICE connection state: connected for peer: jP3-8zR0pKkYPK1sAABl {}
+[2024-12-25T16:36:59.047Z] [INFO] ICE connection state: checking for peer: Pd8RX3ZRFFfi-vI9AABn {}
+[2024-12-25T16:36:59.052Z] [INFO] Connection state change: connecting for peer: Pd8RX3ZRFFfi-vI9AABn {}
+[2024-12-25T16:36:59.052Z] [INFO] ICE connection state: connected for peer: Pd8RX3ZRFFfi-vI9AABn {}
+[2024-12-25T16:36:59.054Z] [INFO] Connection state change: connected for peer: Pd8RX3ZRFFfi-vI9AABn {}
+[2024-12-25T16:36:59.054Z] [INFO] Connection state change: connected for peer: jP3-8zR0pKkYPK1sAABl {}
